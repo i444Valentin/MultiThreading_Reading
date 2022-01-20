@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "MultiThread_Reading": {
+      "commandName": "Project",
+      "sqlDebugging": false,
+      "nativeDebugging": false
+    }
+  }
+}
