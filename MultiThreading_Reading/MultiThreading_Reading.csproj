@@ -3,6 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>MultiThreading_Reading</AssemblyName>
   </PropertyGroup>
 
 </Project>
